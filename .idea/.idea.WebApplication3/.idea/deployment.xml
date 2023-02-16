@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Netx" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Netx">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../../../../Program Files/dotnet/sdk/6.0.402/Sdks/Microsoft.NET.Sdk/analyzers/build/config/analysislevel_6_default.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3.sln" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/Controllers/WeatherForecastController.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/Program.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/Properties/launchSettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/WeatherForecast.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/WebApplication3.csproj" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/appsettings.Development.json" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/appsettings.json" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/obj/Debug/net6.0/WebApplication3.AssemblyInfo.cs" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/obj/Debug/net6.0/WebApplication3.GeneratedMSBuildEditorConfig.editorconfig" web="/" />
+            <mapping local="$PROJECT_DIR$/WebApplication3/obj/Debug/net6.0/WebApplication3.GlobalUsings.g.cs" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

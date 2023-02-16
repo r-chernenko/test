@@ -1,0 +1,11 @@
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\WebApplication3.exe
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\appsettings.Development.json
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\appsettings.json
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\WebApplication3.dll
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\WebApplication3.deps.json
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\WebApplication3.runtimeconfig.json
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\WebApplication3.pdb
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\Microsoft.OpenApi.dll
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\odyne\AppData\Local\Temp\rider-publish10223628630388375009\Swashbuckle.AspNetCore.SwaggerUI.dll
